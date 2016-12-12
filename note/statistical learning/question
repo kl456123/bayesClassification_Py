@@ -1,0 +1,29 @@
+1.relationship of expected loss and empirical loss
+why can get the best function by using mini the empirical loss
+
+
+2.why can not use discriminative approach when there are lanten values
+
+
+3.what is the function of precision and recall
+
+notate:
+P = TP/(TP + FP)
+
+R = TP/(TP + FN)
+
+4.why perceptron use margin function ignoring the 1/||w||
+
+5.the dual problem of perceptron
+
+6.approximation error and estimation error of KNN when concerning about the value of k
+
+7. kd tree, how to get the nearest node
+
+8.maximum likelihood estimation and empirical risk minimization
+
+9.strucral risk minimization and maximum posterior probability estimation
+
+10.prune in CART
+
+11.GLM and logistic distribution

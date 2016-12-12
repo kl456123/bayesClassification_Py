@@ -1,2 +1,4 @@
 #ignore dataset
 dataset/*
+summary/*
+*.pyc
