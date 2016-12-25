@@ -2,3 +2,6 @@
 dataset/*
 summary/*
 *.pyc
+
+#other temp file
+*/.ropeproject/*
